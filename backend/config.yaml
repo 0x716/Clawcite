@@ -1,0 +1,11 @@
+app:
+  host: localhost
+  port: 7162
+  name: clawcite
+
+url:
+  root: "/api"
+
+database:
+  title: "sqlite"
+  path: "./clawcite.db"
